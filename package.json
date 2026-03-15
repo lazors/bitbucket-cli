@@ -1,5 +1,5 @@
 {
-  "name": "bitbucket-cli",
+  "name": "bb-cli",
   "version": "0.1.0",
   "description": "CLI tool wrapping Bitbucket Cloud REST API v2",
   "type": "module",
